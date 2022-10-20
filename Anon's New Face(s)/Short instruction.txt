@@ -1,0 +1,9 @@
+Simply drag/copy-paste the folder, "images", besides this .txt file into the "game" folder.
+Doing so will prompt you to confirm, if you want to overwrite the present images with my modified ones.
+Confirm it and you should be good to go.
+
+If you want the old images back, download Snoot Game again from the link below, copy its "images" folder
+and paste them into the the copy of the game you already donwloaded.
+https://snootgame.xyz/
+
+With that out of the way, enjoy my digital vandalism or do something else. I sure can't stop you.
